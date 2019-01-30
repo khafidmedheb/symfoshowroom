@@ -107,7 +107,7 @@ start chrome --remote-debugging-address=0.0.0.0 --remote-debugging-port=9222
 start chrome --disable-gpu --headless --remote-debugging-address=0.0.0.0 --remote-debugging-port=9222
 
 #  headless mode (Linux)
-chrome --disable-gpu --headless --remote-debugging-address=0.0.0.0 --remote-debugging-port=9222
+google-chrome --disable-gpu --headless --remote-debugging-address=0.0.0.0 --remote-debugging-port=9222
 
 # Problème d'allocation mémoire quand on utilise composer
 # erreur du type : 
